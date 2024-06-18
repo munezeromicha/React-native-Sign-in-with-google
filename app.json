@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "google-authSignin",
+    "slug": "google-authSignin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.medica.googleauthSignin"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0d605d9e-731d-4315-8d43-034c4436cf17"
+      }
+    },
+    "owner": "michaeldev250",
+     "scheme": "google-authSignin"
+  }
+ 
+}
